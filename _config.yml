@@ -1,0 +1,23 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://ndctech.cn
+title: NDCTech
+email: master@ndctech.cn
+author: Master
+description: "NDCTech, 航空旅游产品标准化和便捷传递"
+copyright: '版权所有 &copy; 2015 NDCTech. 保留所有权利.'
+credits: ''
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
